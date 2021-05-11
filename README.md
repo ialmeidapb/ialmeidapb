@@ -9,7 +9,9 @@
   
     Hello my name is Igor Almeida, Fullstack Dev. =)
     
-    ## :books: Tech Stack
+    
+    
+## :books: Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
