@@ -2,7 +2,7 @@
 
 
   
-    Hello my name is Igor Almeida, Fullstack Dev. =)
+    Hey there! My name is Igor Almeida, Fullstack Dev. =)
     
     
     
