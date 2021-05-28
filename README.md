@@ -37,3 +37,9 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
+<!-- <p align="center">
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p> -->
