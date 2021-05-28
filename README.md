@@ -24,6 +24,9 @@ Here are a few things I've picked up along my learning journey.
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
 
+
+## :computer: My Rates
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ialmeidapb)
 
 <p align="left">
