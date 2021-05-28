@@ -25,6 +25,14 @@ Here are a few things I've picked up along my learning journey.
 
 
 
+## :file_cabinet: My latest projects
+
+- [Crossing The Suez Canal - The Game!](https://github.com/ialmeidapb/CrossingTheSuezCanal) :ship:
+- [MealsAndCocktails](https://github.com/ialmeidapb/MealsAndCocktailsPedia) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
+- [Intermed](https://github.com/ialmeidapb/intermed-client-MERN) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="40px">
+
+
+
 ## :bar_chart: My Rates
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ialmeidapb)
@@ -37,8 +45,3 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 
-## :file_cabinet: My latest projects
-
-- [Crossing The Suez Canal - The Game!](https://github.com/ialmeidapb/CrossingTheSuezCanal) :ship:
-- [MealsAndCocktails](https://github.com/ialmeidapb/MealsAndCocktailsPedia) <img src="https://media.giphy.com/media/hr3rc45SrLHnyiisPk/giphy.gif" width="30px">
-- [Intermed](https://github.com/ialmeidapb/intermed-client-MERN) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="40px">
