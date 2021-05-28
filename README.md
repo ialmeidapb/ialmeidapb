@@ -23,3 +23,14 @@ Here are a few things I've picked up along my learning journey.
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ialmeidapb)
+
+<p align="left">
+<a href="https://github.com/ialmeidapb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
