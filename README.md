@@ -28,8 +28,8 @@ Here are a few things I've picked up along my learning journey.
 
 <p align="left">
 <a href="https://github.com/ialmeidapb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=GuillaumeFalourd&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFalourd&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ialmeidapb&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialmeidapb&layout=compact&langs_count=8"/>
 </a>
 </p>
 
