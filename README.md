@@ -45,3 +45,7 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 
+<!--[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)-->
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/ialmeidapb/ialmeidapb?color=blue" alt="Visitors badge" />
+ </a>
