@@ -35,7 +35,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## :bar_chart: My Rates
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ialmeidapb)
+<!-- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ialmeidapb) -->
 
 <p align="left">
 <a href="https://github.com/ialmeidapb">
